@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class coin
+class coin1
 {
     public static void main(String args[])
     {   int count=0;
