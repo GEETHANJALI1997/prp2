@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class pro_21
+class pro__21
 {
     public static void main(String args[])
     {
